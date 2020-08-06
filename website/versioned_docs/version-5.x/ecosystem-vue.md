@@ -89,7 +89,6 @@ export const mount = props => vueLifecycles.mount(props).then(instance => {
 })
 ```
 
-<<<<<<< HEAD
 ## 依赖共享
 
 出于性能上的考虑，Vue、Vue Router以及其他较大的库，最好使用相同的版本
